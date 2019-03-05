@@ -1,1 +1,3 @@
-my first github file
+my first git hub file
+git init :- it is use to create local repository
+git clone :- it is use to create clone .
